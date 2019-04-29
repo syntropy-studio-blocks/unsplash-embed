@@ -1,0 +1,27 @@
+{
+  "name": "unsplash-embed",
+  "version": "1.0.0",
+  "description": "Generate Unsplash image urls for embedding",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/unsplash-embed.git"
+  },
+  "keywords": [
+    "syntropy-studio-block",
+    "image",
+    "unsplash",
+    "embed",
+    "photo",
+    "picture"
+  ],
+  "author": "Angus Russell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/unsplash-embed/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/unsplash-embed#readme"
+}

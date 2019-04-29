@@ -1,0 +1,27 @@
+{
+  "source": "code.js",
+  "inputs": [
+    {
+      "id": "search",
+      "type": "text"
+    },
+    {
+      "id": "imgID",
+      "type": "text"
+    },
+    {
+      "id": "imgWidth",
+      "type": "number"
+    },
+    {
+      "id": "imgHeight",
+      "type": "number"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "imgURL",
+      "description": "An image url for use in an <img> tag or css background"
+    }
+  ]
+}
